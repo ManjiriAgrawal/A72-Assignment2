@@ -21,6 +21,6 @@ This is a Django-based multi-app project designed as part of an assignment. The 
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/JanhaviChede/A71-assignment2.git
+git clone https://github.com/ManjiriAgrawal/A72-assignment2.git
 cd A45-assignment2
 ```
