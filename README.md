@@ -22,5 +22,5 @@ This is a Django-based multi-app project designed as part of an assignment. The 
 
 ```bash
 git clone https://github.com/ManjiriAgrawal/A72-assignment2.git
-cd A45-assignment2
+cd A72-assignment2
 ```
